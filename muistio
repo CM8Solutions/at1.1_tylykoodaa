@@ -1,4 +1,21 @@
 
+-  HARJOITTELE checkbox-tallennus, taulu tehty tietokantaan
+
+- Tietokanta: insert, update, delete -> TURVALLINEN TALLENNUS
+
+- Kommentointi: yksi rivi + monta riviä (eri .css-tiedostossa)
+
+- LUO KANSIOITA PALVELIMELLE  (opiskelijan kansion nimi=opiskelijan nimi)
+
+________________________________________________________
+
+
+-  tiekoodariksi.fi
+
+-  Eficode-yhteistyö?
+
+----------------------------------------------------------
+
 TUNNARI:
 
 u60224
@@ -19,6 +36,10 @@ mysql2.shellit.org
 
 osoite:  phpmyadmin.shellit.org
 server choice:  sql2.shellit.org
+
+OPETTAJAN ESIMERKKITIEDOSTOJEN GIT-osoite:
+
+https://github.com/CM8Solutions/at1.1_tylykoodaa
 
 ----------------------------------------
 
@@ -78,5 +99,4 @@ o	emoji
 o	tiedoston lisäys
 o	JavaScript + alert jne. helpot
 o	<Responsiivisuus:   @media screen and (max-width: 500px)
-
 
